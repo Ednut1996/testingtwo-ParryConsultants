@@ -1,0 +1,33 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: #008ed6 3px solid;
+  opacity: 0.8; }
+
+.home-inner {
+  padding-top: 150px; }
+
+#about-head-section {
+  background-color: #008ed6;
+  color: #fff; }
+
+#about-section {
+  color: #fff; }
+
+.card-text {
+  color: #333; }
+
+.card-title {
+  color: #333; }
+
+#services-image-section {
+  border-radius: 5px; }
+
+#contact-section .fa {
+  color: #008ed6;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }

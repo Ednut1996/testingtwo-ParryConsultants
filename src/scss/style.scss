@@ -1,0 +1,49 @@
+// Main Sass File
+$bg-color: #333;
+$font-color: #fff;
+$primary-color:#008ed6;
+
+body {
+    background: $bg-color;
+    color: $font-color;
+}
+
+.navbar {
+    border-bottom: $primary-color 3px solid;
+    opacity: 0.8;
+}
+
+.home-inner {
+    padding-top: 150px;
+}
+
+#about-head-section {
+    background-color: $primary-color;
+    color: $font-color;
+}
+
+#about-section {
+    color: $font-color;
+}
+
+.card-text {
+    color: #333;
+}
+
+.card-title {
+    color: #333;
+}
+
+#services-image-section {
+    border-radius: 5px;
+}
+
+#contact-section{
+    .fa {
+        color:$primary-color;
+        background: #333;
+        padding: 4px;
+        border-radius: 5px;
+        font-size: 30px;
+    }
+}
